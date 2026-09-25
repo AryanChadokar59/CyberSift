@@ -1,4 +1,6 @@
 # 🛡️ Spam-classifier - AI Message Security Analyzer
+live demo - https://cybersift.streamlit.app/
+
 
 An AI-powered spam and scam detection system that analyzes
 messages and classifies them into three security levels:
